@@ -1,4 +1,4 @@
-FROM sameersbn/ubuntu:14.04.20150323
+FROM sameersbn/ubuntu:14.04.20151117
 MAINTAINER sameer@damagehead.com
 
 RUN cp /usr/share/zoneinfo/Asia/Taipei /etc/localtime && \
